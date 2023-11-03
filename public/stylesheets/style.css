@@ -1,5 +1,7 @@
 .sidebar-nav {
-  margin-top: 20px;
-  padding: 0;
+  margin-top: 30px;
+  padding: 5px;
   list-style: none;
+  background-color: light-blue; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
